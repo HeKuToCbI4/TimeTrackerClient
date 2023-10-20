@@ -1,0 +1,3 @@
+[submodule "src/proto"]
+	path = proto
+	url = git@github.com:HeKuToCbI4/TimeTrackerProto.git
